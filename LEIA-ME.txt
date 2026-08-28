@@ -1,0 +1,26 @@
+BENCHMARK BRASIL — VERSÃO PREPARADA PARA ADSENSE
+
+Esta versão contém:
+- Página inicial
+- 8 testes em URLs/páginas separadas
+- Sobre
+- Contato
+- Política de Privacidade
+- Termos de Uso
+- Espaços reservados para anúncios
+- Local comentado no <head> para inserir o código oficial do Google AdSense
+- sitemap.xml
+- robots.txt
+
+ANTES DE PUBLICAR:
+1. Troque "contato@SEU-DOMINIO.com" pelo seu e-mail.
+2. Depois que tiver um domínio/endereço definitivo, troque "SEU-DOMINIO.com" em sitemap.xml e robots.txt.
+3. Não cole nenhum código de anúncio até receber o código oficial na sua conta do AdSense.
+4. A aprovação do AdSense não é garantida; o Google analisa o site.
+
+Para testar no computador:
+- descompacte a pasta;
+- abra index.html.
+
+Para publicar:
+- envie TODOS os arquivos juntos para a hospedagem gratuita escolhida.
